@@ -1,0 +1,2 @@
+"V1","V2"
+list(X = 1, timestamp = "2024-08-22 08:52:42.293266", value = "This is the output from step 1"),list(X = 1, timestamp = "2024-08-22 08:53:26.321395", value = "This is the output from step 2")
